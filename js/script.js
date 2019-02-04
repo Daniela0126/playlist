@@ -33,7 +33,7 @@ function displaySongInfo(){
     });
     
     links.forEach(function(link){
-       $("#links").append("<p>" + link + "</p>"); 
+       $("#links").append("<a href='" + link + "'> Listen </a>"); 
     });
 }
 
@@ -74,3 +74,4 @@ $("#add").click(function() {
 });
 
 displaySongInfo();
+

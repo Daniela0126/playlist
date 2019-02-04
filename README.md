@@ -31,12 +31,12 @@
 
 ## Day 3
 ### JS
-- [ ] In the body of your addSongInfo function retrieve user inputs
-- [ ] In the body of your addSongInfo function push items to your song array
-- [ ] Display the results to the screen when the user clicks a button
+- [x] In the body of your addSongInfo function retrieve user inputs
+- [x] In the body of your addSongInfo function push items to your song array
+- [x] Display the results to the screen when the user clicks a button
 
 ### Wrap
-- [ ] Push your changes!
+- [x] Push your changes!
 
 ## Extensions
 - [ ] Update the HTML and CSS to reflect your own style.

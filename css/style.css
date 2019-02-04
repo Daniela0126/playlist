@@ -1,5 +1,8 @@
 h1 {
     text-align: center;
+    font-family: 'Merienda', cursive;
+    font-size: 50px;
+    color: white;
 }
 
 #cart {
@@ -7,6 +10,11 @@ h1 {
     justify-content: center;
     border-top: 5px solid black;
     border-bottom: 5px solid black;
+    background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ5ZpXHuJ52nyV7Y_wG8uSNOcbKEcnJ1pgCMiLiPjZOPMk7wI5i");
+    color: white;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
 }
 
 .column {
@@ -19,6 +27,7 @@ h1 {
     height: 100px;
     width: auto;
     margin: 20px;
+    padding-left: 10px;
 }
 
 #songs p {
@@ -53,14 +62,31 @@ h1 {
     width: 75%;
     margin: 0 auto 20px auto;
     font-size: 18px;
+    justify-content: space-around;
 }
 
 input {
     padding: 5px 10px;
     font-size: 14px;
+        font-family: 'Handlee', cursive;
+
 }
 
 button {
     font-size: 14px;
     padding: 5px 10px;
 }
+
+p{
+    font-family: 'Handlee', cursive;
+    font-size: 20px;
+    color: white;
+}
+
+#start{
+    background-image: url("https://png.pngtree.com/thumb_back/fw800/back_pic/03/92/09/7657e211a004007.jpg");
+    background-size: 100%;
+    padding-bottom: 10px;
+    padding-top: 10px;
+}
+
